@@ -1,4 +1,9 @@
-# Title: Hosts contributed by Lanz Viktor
+# Title: Lanz Viktor/hosts
+#
+# This hosts file is a custom list of hosts
+#
+# Date: 22 February 2025
+# Number of unique domains: 4
 
 0.0.0.0 bingoplus.com
 0.0.0.0 bet88.ph

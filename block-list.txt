@@ -5,7 +5,11 @@
 # Date: 22 February 2025
 # Number of unique domains: 4
 
-bingoplus.com^
-bet88.ph^
-casinoplus.com.ph^
-casinoplus.com^
+# Start List
+
+||bingoplus.com
+||bet88.ph
+||casinoplus.com.ph
+||casinoplus.com
+
+# End List

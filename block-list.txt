@@ -1,0 +1,6 @@
+# Title: Hosts contributed by Lanz Viktor
+
+0.0.0.0 bingoplus.com
+0.0.0.0 bet88.ph
+0.0.0.0 casinoplus.com.ph
+0.0.0.0 casinoplus.com

@@ -1,4 +1,4 @@
-# Title: Lanz Viktor/hosts
+# Title: Skalabundz/hosts
 #
 # This hosts file is a custom list of hosts
 #

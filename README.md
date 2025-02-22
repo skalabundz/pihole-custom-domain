@@ -1,4 +1,4 @@
-# Lanz Viktor Custom Block List
+# Skalabundz Custom Block List
 
 ## Domain List
 

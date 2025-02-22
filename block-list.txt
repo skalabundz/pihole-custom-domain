@@ -7,9 +7,9 @@
 
 # Start List
 
-||bingoplus.com^
-||bet88.ph^
-||casinoplus.com.ph^
-||casinoplus.com^
+0.0.0.0 bingoplus.com
+0.0.0.0 bet88.ph
+0.0.0.0 casinoplus.com.ph
+0.0.0.0 casinoplus.com
 
 # End List

@@ -2,7 +2,9 @@
 
 ## Domain List
 
-bingoplus.com  
-bet88.ph  
-casinoplus.com.ph  
-casinoplus.com  
+bingoplus.com
+bingoplus.com.ph
+bet88.ph
+casinoplus.com.ph
+casinoplus.com
+gzone.com
